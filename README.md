@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ema Halimi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, Git
+- 🌱 I’m currently learning HTML, CSS, Git, JavaScript
 - 📫 How to reach me emahalimi19@gmail.com
 
 <!---
